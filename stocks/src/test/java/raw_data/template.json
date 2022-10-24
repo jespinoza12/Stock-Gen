@@ -1,0 +1,20 @@
+[
+  {
+    "account_number":0,
+    "ssn":"###-###-####",
+    "first_name":"John",
+    "last_name":"Doe",
+    "email":"jdoe@email.com",
+    "phone":"###-###-####",
+    "beginning_balance":"$0.00",
+    "stock_trades":
+    [
+      {
+        "type":"Sell/Buy",
+        "stock_symbol":"SMBL",
+        "count_shares":0,
+        "price_per_share":"$0.00"
+      }
+    ]
+  }
+]

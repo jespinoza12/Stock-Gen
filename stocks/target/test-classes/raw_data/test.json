@@ -1,0 +1,26 @@
+[
+  {
+    "account_number":1,
+    "ssn":"123-45-6789",
+    "first_name":"Jeffrey",
+    "last_name":"Rehm",
+    "email":"jrehm@student.neumont.edu",
+    "phone":"801-123-4567",
+    "beginning_balance":"$100.00",
+    "stock_trades":
+    [
+      {
+        "type":"Buy",
+        "stock_symbol":"AAPL",
+        "count_shares":6,
+        "price_per_share":"$2.00"
+      },
+      {
+        "type":"Sell",
+        "stock_symbol":"AAPL",
+        "count_shares":3,
+        "price_per_share":"$3.00"
+      }
+    ]
+  }
+]
