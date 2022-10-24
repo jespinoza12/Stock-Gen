@@ -20,13 +20,8 @@ class JSONControllerTest {
 
     @Test
     void getStockholdersFromJSONSize() {
-        // arrange
         int expected = 1;
-
-        // act
         int actual = stockholders.size();
-
-        // assert
         assertEquals(expected, actual);
     }
 }
